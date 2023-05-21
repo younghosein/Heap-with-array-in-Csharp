@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\bin\Debug\Heap_Example_0_0.exe.config
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\bin\Debug\Heap_Example_0_0.exe
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\bin\Debug\Heap_Example_0_0.pdb
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\obj\Debug\Heap_Example_0_0.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\obj\Debug\Heap_Example_0_0.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\obj\Debug\Heap_Example_0_0.exe
+C:\Users\RayanGate\source\repos\Heap_Example_0_0\Heap_Example_0_0\obj\Debug\Heap_Example_0_0.pdb
